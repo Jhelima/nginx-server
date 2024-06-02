@@ -1,0 +1,10 @@
+cert/*.crt
+cert/*.key
+
+nginx/fastcgi_params
+nginx/scgi_params
+nginx/uwsgi_params
+
+nginx/modules
+
+html*/index.html
